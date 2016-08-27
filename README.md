@@ -12,4 +12,4 @@ LikeAPainter is an add-on for [Blender](https://www.blender.org/) which transfor
 ## Developer
 
 * Florian Dufour - devflodufour@outlook.com
-* Laurine Dufour - 
+* Laurine Dufour - lyochandreams@gmail.com
